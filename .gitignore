@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # zip files
-.tar
-.gz
-.tar.gz
+*.tar
+*.gz
+*.tar.gz
