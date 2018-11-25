@@ -1,0 +1,1 @@
+Text name: res/res_cn_cls_cifar10_symmetric_rate20_lr1e-02_pi1_bias2e-01_k_mix10_gap_mixup01_sgd_max_epoch200_lsecoer1e-04.txt

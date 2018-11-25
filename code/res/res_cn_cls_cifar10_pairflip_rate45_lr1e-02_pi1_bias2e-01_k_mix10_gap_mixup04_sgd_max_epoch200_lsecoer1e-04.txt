@@ -1,0 +1,2 @@
+Text name: res/res_cn_cls_cifar10_pairflip_rate45_lr1e-02_pi1_bias2e-01_k_mix10_gap_mixup04_sgd_max_epoch200_lsecoer1e-04.txt
+[00/200] [Loss] train:-0.176(f:-0.184+r:0.001+k:0.001+l:0.006) val:-0.199 test:-0.201 [Accr] train:22.8% val:27.8% test:27.8% maxVal:27.8% maxTest:27.8%
